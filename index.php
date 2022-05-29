@@ -10,9 +10,9 @@
 </head>
 
 <body>
-    <h1 align="center">Таблицы сравнения PHP</h1>
+    <h1 align="center">Таблицы истинности и сравнения PHP</h1>
     <table align="center">
-        <h2 align="center">Таблица истинности PHP</h2>
+        <caption>Таблица истинности PHP</caption>
         <?php $a = 0; $b = 0;?>
         <tr>
             <td><strong>A</strong></td>
@@ -57,8 +57,7 @@
         </tr>
     </table>
     <table align="center">
-        <h2 align="center">Гибкое сравнение в PHP</h2>
-
+        <caption>Гибкое сравнение в PHP</caption>
         <tr>
             <td><strong></strong></td>
             <td><strong>true</strong></td>
@@ -167,8 +166,7 @@
         </tr>
     </table>
     <table align="center">
-        <h2 align="center">Жесткое сравнение в PHP</h2>
-
+        <caption >Жесткое сравнение в PHP</caption>
         <tr>
             <td><strong></strong></td>
             <td><strong>true</strong></td>
