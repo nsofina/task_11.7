@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <h1 align="center">Таблицы истинности и сравнения PHP</h1>
+    <h1 align="center">Таблицы истинности и сравнений PHP</h1>
     <table align="center">
         <caption>Таблица истинности PHP</caption>
         <?php $a = 0; $b = 0;?>
